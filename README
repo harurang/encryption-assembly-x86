@@ -1,0 +1,9 @@
+This program encrypts and decrypts an input file using symmetric encryption.
+
+The encrypted file is placed into an output file. The user will be prompted
+on whether or not they would like to decrypt the output file. Next the user
+will be prompted on whether or not they would like to run the program again.
+
+NOTES:
+Do not include '.txt' in name of input or output file.
+For example, title input text 'Input' not 'Input.txt'
